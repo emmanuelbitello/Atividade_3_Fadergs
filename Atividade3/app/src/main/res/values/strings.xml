@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Atividade3</string>
+    <string name="tvCima">Arrastou para Cima!</string>
+    <string name="tvBaixo">Arrastou para Baixo!!</string>
+    <string name="tvEsquerda">Arrastou para Esquerda!</string>
+    <string name="tvDireita">Arrastou para Direita!</string>
+</resources>
